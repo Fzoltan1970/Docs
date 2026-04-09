@@ -3,29 +3,29 @@
 ## 🌍 Language Selection / Nyelv választás
 
 ### First Steps
-- 🇭🇺 [Magyar](first_step/hu.md)
-- 🇬🇧 [English](first_step/en.md)
-- 🇩🇪 [Deutsch](first_step/de.md)
-- 🇫🇷 [Français](first_step/fr.md)
-- 🇮🇹 [Italiano](first_step/it.md)
+- 🇭🇺 [Magyar](First_step/hu.md)
+- 🇬🇧 [English](First_step/en.md)
+- 🇩🇪 [Deutsch](First_step/de.md)
+- 🇫🇷 [Français](First_step/fr.md)
+- 🇮🇹 [Italiano](First_step/it.md)
 
 ---
 
 ## 📘 Knowledge Base
 
 ### 📖 User Manual
-- 🇭🇺 [Magyar](knowledge/user_manual/hu.md)
-- 🇬🇧 [English](knowledge/user_manual/en.md)
-- 🇩🇪 [Deutsch](knowledge/user_manual/de.md)
-- 🇫🇷 [Français](knowledge/user_manual/fr.md)
-- 🇮🇹 [Italiano](knowledge/user_manual/it.md)
+- 🇭🇺 [Magyar](Knowledge/User_manual/hu.md)
+- 🇬🇧 [English](Knowledge/User_manual/en.md)
+- 🇩🇪 [Deutsch](Knowledge/User_manual/de.md)
+- 🇫🇷 [Français](Knowledge/User_manual/fr.md)
+- 🇮🇹 [Italiano](Knowledge/User_manual/it.md)
 
 ### 🖼️ Image Processing
-- 🇭🇺 [Magyar](knowledge/image_processing/hu.md)
-- 🇬🇧 [English](knowledge/image_processing/en.md)
-- 🇩🇪 [Deutsch](knowledge/image_processing/de.md)
-- 🇫🇷 [Français](knowledge/image_processing/fr.md)
-- 🇮🇹 [Italiano](knowledge/image_processing/it.md)
+- 🇭🇺 [Magyar](Knowledge/Image_processing/hu.md)
+- 🇬🇧 [English](Knowledge/Image_processing/en.md)
+- 🇩🇪 [Deutsch](Knowledge/Image_processing/de.md)
+- 🇫🇷 [Français](Knowledge/Image_processing/fr.md)
+- 🇮🇹 [Italiano](Knowledge/Image_processing/it.md)
 
 ---
 
@@ -42,6 +42,6 @@ LaserBase Suite documentation:
 
 ## 🔗 Section Index
 
-- [First Steps](first_steps/README.md)
-- [User Manual](knowledge/user_manual/README.md)
-- [Image Processing](knowledge/image_processing/README.md)
+- [First Steps](First_step/README.md)
+- [User Manual](Knowledge/User_manual/README.md)
+- [Image Processing](Knowledge/Image_processing/README.md)
