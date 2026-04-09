@@ -3,11 +3,11 @@
 ## 🌍 Language Selection / Nyelv választás
 
 ### First Steps
-- 🇭🇺 [Magyar](first_steps/hu.md)
-- 🇬🇧 [English](first_steps/en.md)
-- 🇩🇪 [Deutsch](first_steps/de.md)
-- 🇫🇷 [Français](first_steps/fr.md)
-- 🇮🇹 [Italiano](first_steps/it.md)
+- 🇭🇺 [Magyar](first_step/hu.md)
+- 🇬🇧 [English](first_step/en.md)
+- 🇩🇪 [Deutsch](first_step/de.md)
+- 🇫🇷 [Français](first_step/fr.md)
+- 🇮🇹 [Italiano](first_step/it.md)
 
 ---
 
